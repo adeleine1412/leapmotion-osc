@@ -12,7 +12,6 @@ https://user-images.githubusercontent.com/53810001/154858534-3e3f626c-cc9a-4ff0-
 
 ### Dependencies
 
-* [VRChat 2022.1.1, build 1167 and up](https://hello.vrchat.com/blog/vrchat-osc-for-avatars) (Open Beta)
 * [NodeJS](https://nodejs.dev/)
 * [Leap Motion Orion 3.2.1](https://developer.leapmotion.com/releases/leap-motion-orion-321-39frn-3b659) (I had problems with the new version of Ultraleap, maybe the new versions work for you)
 
