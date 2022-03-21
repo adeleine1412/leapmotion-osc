@@ -13,7 +13,9 @@ https://user-images.githubusercontent.com/53810001/154858534-3e3f626c-cc9a-4ff0-
 ### Dependencies
 
 * [NodeJS](https://nodejs.dev/)
-* [Leap Motion Orion 3.2.1](https://developer.leapmotion.com/releases/leap-motion-orion-321-39frn-3b659) (I had problems with the new version of Ultraleap, maybe the new versions work for you)
+* [Leap Motion Orion 3.2.1](https://developer.leapmotion.com/releases/leap-motion-orion-321-39frn-3b659)
+ 
+(I had problems with the new version of Ultraleap, maybe the new versions work for you)
 
 ### Installing
 
@@ -26,7 +28,7 @@ https://user-images.githubusercontent.com/53810001/154858534-3e3f626c-cc9a-4ff0-
 
 ### Additional notes
 
-The default mode for the controllers is `optimizeHMD`, if you want to use this on a flat surface instead, make sure you set `optimizeHMD:true` to `optimizeHMD:false` at the very beginning of the `Leap.loop` function.
+The default mode for the controllers is `optimizeHMD`, if you want to use this on a flat surface instead, make sure you set `optimizeHMD` to `false` in the `config/default.json` config file.
 
 ## Avatar Setup
 
